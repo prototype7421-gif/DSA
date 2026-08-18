@@ -2,7 +2,7 @@
 import java.util.Arrays;
 
 public class countTriplets {
-    int count(int sum, int[] arr) {
+    int counttri(int sum, int[] arr) {
         Arrays.sort(arr);
         int count = 0;
         int i =0;
