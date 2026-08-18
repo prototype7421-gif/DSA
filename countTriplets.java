@@ -1,8 +1,8 @@
 
 import java.util.Arrays;
 
-public class closestsum {
-    int countTriplets(int sum, int[] arr) {
+public class countTriplets {
+    int count(int sum, int[] arr) {
         Arrays.sort(arr);
         int count = 0;
         int i =0;
