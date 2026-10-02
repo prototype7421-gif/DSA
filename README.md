@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prototype7421-gif/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/prototype7421-gif/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prototype7421-gif/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prototype7421-gif/DSA/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prototype7421-gif/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/prototype7421-gif/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prototype7421-gif/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prototype7421-gif/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prototype7421-gif/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/prototype7421-gif/DSA/tree/master/0507-perfect-number) |
 ## Hash Table
 |  |
