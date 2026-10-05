@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prototype7421-gif/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prototype7421-gif/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/prototype7421-gif/DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
