@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prototype7421-gif/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prototype7421-gif/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prototype7421-gif/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prototype7421-gif/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prototype7421-gif/DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prototype7421-gif/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/prototype7421-gif/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prototype7421-gif/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/prototype7421-gif/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prototype7421-gif/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prototype7421-gif/DSA/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -55,10 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/prototype7421-gif/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prototype7421-gif/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/prototype7421-gif/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/prototype7421-gif/DSA/tree/master/0507-perfect-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prototype7421-gif/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/prototype7421-gif/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prototype7421-gif/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prototype7421-gif/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
