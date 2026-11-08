@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prototype7421-gif/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/prototype7421-gif/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/prototype7421-gif/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/prototype7421-gif/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prototype7421-gif/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prototype7421-gif/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/prototype7421-gif/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/prototype7421-gif/DSA/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
