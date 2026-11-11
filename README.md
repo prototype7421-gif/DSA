@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prototype7421-gif/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prototype7421-gif/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prototype7421-gif/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/prototype7421-gif/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prototype7421-gif/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/prototype7421-gif/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/prototype7421-gif/DSA/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prototype7421-gif/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prototype7421-gif/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/prototype7421-gif/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/prototype7421-gif/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prototype7421-gif/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/prototype7421-gif/DSA/tree/master/0507-perfect-number) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prototype7421-gif/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prototype7421-gif/DSA/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
